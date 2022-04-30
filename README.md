@@ -16,8 +16,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 👤 **Rizwan Hasan**
 
-GitHub: @rizwan-learn
-Twitter: @rizwanhasan21
+GitHub: @rizwan-learn <br>
+Twitter: @rizwanhasan21 <br>
 LinkedIn: rizwanhasan21
 
 
